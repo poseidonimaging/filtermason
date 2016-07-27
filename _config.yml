@@ -1,23 +1,13 @@
 # Setup
-<<<<<<< HEAD
-title:        FilterMason
+title:        Filter Mason
 tagline:      Build Filters for Snapchat
-=======
-title:        Project or Site name
-tagline:      A responsive theme for your project on GitHub Pages
->>>>>>> origin/master
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-<<<<<<< HEAD
   name:       Spacesift LLC
   url:        http://filtermason.com 
-=======
-  name:       Author name
-  url:        http://yourhomepage.com 
->>>>>>> origin/master
 
 # Gems
 gems:

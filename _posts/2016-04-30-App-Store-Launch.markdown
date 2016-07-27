@@ -24,7 +24,7 @@ This is the easiest part as we’ve already done the hard work for you. The imag
 <h3>Step Two: Set Timeframe</h3>
 <img src="/img/Set-Snapchat-Filter-Timeframe.png">
 
-Filters run for a preset amount of time. Click on the day of the calendar you want to start your filter and then select a start time (while making sure the time zone is correct). Then click the end date (midnight is the next day) and select the time your filter should stop running. Double and triple check the dates and times to be absolutely certain your filter runs at the times you want. Then click ‘Next.’
+Filters run for a preset amount of time. Click on the day of the calendar you want to start your filter and then select a start time (while making sure the time zone is correct). Then click the end date (midnight is the next day) and select the time your filter should stop running. Double and triple check the dates and times to be absolutely certain your filter runs at the times you want. Then click <b>Next</b>.
 
 <h3>Step Three: Select Area</h3>
 <img src="/img/Select-Snapchat-Filter-Area.png">
@@ -34,7 +34,7 @@ Type in the name or address of where you want your filter to run then click arou
 <h3>Step Four: Double and Triple Check</h3>
 <img src="/img/Snapchat-Filter-Order-Details.png">
 
-We’re almost done! On the left side, make absolutely 100% sure that the filter, date/times, and geofenced areas are exactly right. Then ask a friend to double check your work because your eyes are probably playing tricks on you. On the right hand side, put in your credit card information and select the Filter Type (Personal or Business). Note: Snapchat’s approval team is made of humans. If your filter has an inside joke/nickname written in text and the approval team thinks it’s for a Business, but you submit it as Personal, prepare for rejection.
+We’re almost done! On the left side, make absolutely 100% sure that the filter, date/times, and geofenced areas are exactly right. Then ask a friend to double check your work because your eyes are probably playing tricks on you. On the right hand side, put in your credit card information and select the Filter Type (Personal or Business). <i>Note: Snapchat’s approval team is made of humans. If your filter has an inside joke/nickname written in text and the approval team thinks it’s for a Business, but you submit it as Personal, prepare for rejection.</i>
  
 That is it! We hope everyone enjoys your Snapchat Filter! Please share the app with friends and drop us a line about anything you love or things we can improve on.
 

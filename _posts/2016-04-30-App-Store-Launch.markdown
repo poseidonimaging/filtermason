@@ -10,10 +10,13 @@ categories: main
 First things first, you’ll need to be on a desktop or laptop, as Snapchat doesn’t currently have any other way of uploading filters. Another thing to note is that this will cost a little money. Snapchat employs hundreds of people to make the app fun and free to play with, so this is one way they make money to keep the lights on, but we promise, it’s very inexpensive.
  
 We’ve sent you the graphic you’ll be uploading. Some things to note:
-- There is no guarantee that your filter will be approved. If you used more than 1/3 of the screen with graphics and text or have something inappropriate, they reserve the right to reject your filter.
-- The approval process takes time. Technically you can request approval up to 24 hours ahead of time, but we recommend 48 hours.
-- You’ll be drawing a shape on a map to tell Snapchat where the filter needs to be active and when.
+<ul>
+<li>There is no guarantee that your filter will be approved. If you used more than 1/3 of the screen with graphics and text or have something inappropriate, they reserve the right to reject your filter.</li>
+<li>The approval process takes time. Technically you can request approval up to 24 hours ahead of time, but we recommend 48 hours.</li>
+<li>You’ll be drawing a shape on a map to tell Snapchat where the filter needs to be active and when.</li>
+</ul>
 
+<h3>Step One: Upload Filter</h3>
 <img src="/img/Upload-Snapchat-Filter.png">
 
 

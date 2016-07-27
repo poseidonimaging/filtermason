@@ -3,6 +3,7 @@ title:        Filter Mason
 tagline:      Build Filters for Snapchat
 baseurl:      ""
 paginate:     1
+permalink:    :title
 
 # About/contact
 author:

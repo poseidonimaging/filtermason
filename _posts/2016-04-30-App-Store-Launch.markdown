@@ -19,7 +19,25 @@ We’ve sent you the graphic you’ll be uploading. Some things to note:
 <h3>Step One: Upload Filter</h3>
 <img src="/img/Upload-Snapchat-Filter.png">
 
+This is the easiest part as we’ve already done the hard work for you. The image we emailed you is the right dimensions, resolution, and size Snapchat requires. [Login to Snapchat's website][snapchatwebsite] and click <b>Create Now</b> then click <b>Choose File</b> and upload the image we attached in the email we sent. Then, name the image for easy reference and click <b>Next</b>.
 
-Check out [Letters of the Alphabet with Fluffy][letterswithfluffy] in the App Store!
+<h3>Step Two: Set Timeframe</h3>
+<img src="/img/Set-Snapchat-Filter-Timeframe.png">
 
-[letterswithfluffy]: https://itunes.apple.com/us/app/abcs-letters-alphabet-fluffy/id1108198702?mt=8
+Filters run for a preset amount of time. Click on the day of the calendar you want to start your filter and then select a start time (while making sure the time zone is correct). Then click the end date (midnight is the next day) and select the time your filter should stop running. Double and triple check the dates and times to be absolutely certain your filter runs at the times you want. Then click ‘Next.’
+
+<h3>Step Three: Select Area</h3>
+<img src="/img/Select-Snapchat-Filter-Area.png">
+
+Type in the name or address of where you want your filter to run then click around the space to draw a fence. Snapchat doesn’t force any standard shapes, so feel free to trace the exact borders of a building or park. Geolocation isn’t exact, so make your fence a bit bigger to be on the safe side. It’s helpful to switch between Map and Satellite view to make sure you’re containing the whole area you want, especially if there are backyards or areas the Map view doesn’t clearly show.
+
+<h3>Step Four: Double and Triple Check</h3>
+<img src="/img/Snapchat-Filter-Order-Details.png">
+
+We’re almost done! On the left side, make absolutely 100% sure that the filter, date/times, and geofenced areas are exactly right. Then ask a friend to double check your work because your eyes are probably playing tricks on you. On the right hand side, put in your credit card information and select the Filter Type (Personal or Business). Note: Snapchat’s approval team is made of humans. If your filter has an inside joke/nickname written in text and the approval team thinks it’s for a Business, but you submit it as Personal, prepare for rejection.
+ 
+That is it! We hope everyone enjoys your Snapchat Filter! Please share the app with friends and drop us a line about anything you love or things we can improve on.
+
+<b>Stay filtered my friends.</b>
+
+[snapchatwebsite]: https://www.snapchat.com/on-demand

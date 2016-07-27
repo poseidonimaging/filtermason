@@ -14,7 +14,7 @@ We’ve sent you the graphic you’ll be uploading. Some things to note:
 - The approval process takes time. Technically you can request approval up to 24 hours ahead of time, but we recommend 48 hours.
 - You’ll be drawing a shape on a map to tell Snapchat where the filter needs to be active and when.
 
-
+<img src="Upload-Snapchat-Filter.png">
 
 
 Check out [Letters of the Alphabet with Fluffy][letterswithfluffy] in the App Store!

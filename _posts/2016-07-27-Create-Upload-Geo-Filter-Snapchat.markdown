@@ -5,6 +5,8 @@ date:   2016-06-27 17:50:00
 categories: main
 ---
 
+<h1>Create and Upload a Geo Filter to Snapchat</h1>
+
 <b>You’ve created your gorgeous new filter for Snapchat with Filter Mason, but there’s a few more steps to finish the process.</b>
 
 First things first, you’ll need to be on a desktop or laptop, as Snapchat doesn’t currently have any other way of uploading filters. Another thing to note is that this will cost a little money. Snapchat employs hundreds of people to make the app fun and free to play with, so this is one way they make money to keep the lights on, but we promise, it’s very inexpensive.

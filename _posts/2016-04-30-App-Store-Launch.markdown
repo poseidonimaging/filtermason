@@ -19,7 +19,7 @@ We’ve sent you the graphic you’ll be uploading. Some things to note:
 <h3>Step One: Upload Filter</h3>
 <img src="/img/Upload-Snapchat-Filter.png">
 
-This is the easiest part as we’ve already done the hard work for you. The image we emailed you is the right dimensions, resolution, and size Snapchat requires. [Login to Snapchat's website][snapchatwebsite] and click <b>Create Now</b> then click <b>Choose File</b> and upload the image we attached in the email we sent. Then, name the image for easy reference and click <b>Next</b>.
+This is the easiest part as we’ve already done the hard work for you. The image we emailed you is the right dimensions, resolution, and size Snapchat requires. <a href="https://www.snapchat.com/on-demand" target="_blank">Login to Snapchat's website</a> and click <b>Create Now</b> then click <b>Choose File</b> and upload the image we attached in the email we sent. Then, name the image for easy reference and click <b>Next</b>.
 
 <h3>Step Two: Set Timeframe</h3>
 <img src="/img/Set-Snapchat-Filter-Timeframe.png">
@@ -39,5 +39,3 @@ We’re almost done! On the left side, make absolutely 100% sure that the filter
 That is it! We hope everyone enjoys your Snapchat Filter! Please share the app with friends and drop us a line about anything you love or things we can improve on.
 
 <b>Stay filtered my friends.</b>
-
-[snapchatwebsite]: https://www.snapchat.com/on-demand

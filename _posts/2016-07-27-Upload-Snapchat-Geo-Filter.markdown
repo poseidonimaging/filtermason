@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "Create and Upload a Snapchat Geo Filter"
+title:  "Upload a Snapchat Geo Filter"
 date:   2016-07-27
 ---
 
-<h1>Create and Upload a Snapchat Geo Filter</h1>
+<h1>Upload a Snapchat Geo Filter</h1>
 
 <b>You’ve created your gorgeous new filter for Snapchat with Filter Mason, but there’s a few more steps to finish the process.</b>
 

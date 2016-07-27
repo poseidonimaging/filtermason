@@ -1,8 +1,6 @@
 ---
 layout: default
 title:  "Create and Upload a Geo Filter to Snapchat"
-date:   2016-06-27 17:50:00
-categories: main
 ---
 
 <h1>Create and Upload a Geo Filter to Snapchat</h1>

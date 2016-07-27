@@ -1,7 +1,7 @@
 # Setup
 <<<<<<< HEAD
 title:        Filter Mason
-tagline:      Make Filters for Snapchat
+tagline:      Build Filters for Snapchat
 =======
 title:        Project or Site name
 tagline:      A responsive theme for your project on GitHub Pages
@@ -13,7 +13,7 @@ paginate:     1
 author:
 <<<<<<< HEAD
   name:       Spacesift LLC
-  url:        http://filtermason.com
+  url:        http://filtermason.com 
 =======
   name:       Author name
   url:        http://yourhomepage.com 
